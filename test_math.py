@@ -3,7 +3,7 @@ def test_always_true():
     assert True
 
 
-def test_euclids_algorithm():
+def test_euclids_algorithm(euclids_algorithm):
     # Test cases where one of the numbers is 0
     assert euclids_algorithm(0, 5) == 5
     assert euclids_algorithm(5, 0) == 5
