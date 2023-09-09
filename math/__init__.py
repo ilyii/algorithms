@@ -1,1 +1,0 @@
-from .euclids_algorithm import euclids_algorithm
