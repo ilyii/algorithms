@@ -1,6 +1,7 @@
 algorithms 🧮
 
 ➕➖🟰✖️➗🟰➕✖️➗➖
+
 A collection of algorithms.
 
 - [Search Algorithms](search/)
