@@ -1,4 +1,4 @@
-from math import euclids_algorithm
+from maths import euclids_algorithm
 def test_always_true():
     assert True
 
@@ -23,4 +23,7 @@ def test_euclids_algorithm(euclids_algorithm):
     assert euclids_algorithm(123456789, 987654321) == 9  # GCD of these large numbers
 
     print("All test cases passed.")
+
+
+
 
