@@ -1,4 +1,7 @@
 
+def test_always_true():
+    assert True
+
 
 def test_euclids_algorithm(algorithm):
     # Test cases where one of the numbers is 0
@@ -21,6 +24,3 @@ def test_euclids_algorithm(algorithm):
 
     print("All test cases passed.")
 
-
-def hello():
-    print("hello")
