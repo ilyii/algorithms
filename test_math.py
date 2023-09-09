@@ -3,7 +3,7 @@ def test_always_true():
     assert True
 
 
-def test_euclids_algorithm(euclids_algorithm):
+def test_euclids_algorithm():
     # Test cases where one of the numbers is 0
     assert euclids_algorithm(0, 5) == 5
     assert euclids_algorithm(5, 0) == 5
@@ -23,7 +23,3 @@ def test_euclids_algorithm(euclids_algorithm):
     assert euclids_algorithm(123456789, 987654321) == 9  # GCD of these large numbers
 
     print("All test cases passed.")
-
-
-
-
