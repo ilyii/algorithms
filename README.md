@@ -1,8 +1,8 @@
-# algorithms 🧮
+# Exploration Station🔍
 
-A collection of algorithms.
+A place for discovery and research.
 
-- **[Search Algorithms](search/)**
-- **[Sort Algorithms](sort/)**
-- **[Math Algorithms](maths/)**
-- **[File System Algorithms](filesystem/)**
+- **[`Search Algorithms`](search/)**
+- **[`Sort Algorithms`](sort/)**
+- **[`Math Algorithms`](maths/)**
+- **[`File System Algorithms`](filesystem/)**
