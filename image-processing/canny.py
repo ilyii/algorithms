@@ -8,6 +8,16 @@ import requests
 import matplotlib.pyplot as plt
 
 def canny(image: np.array):
+    """
+    Canny operator for edge detection.
+
+    Args:
+    image (np.array): Grayscale image.
+
+    Returns:
+    np.array: Edge image.
+    
+    """
 
     # 1. Gaussian blur
     blurred = cv2.GaussianBlur(image, (5, 5), 0)
